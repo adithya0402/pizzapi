@@ -3,10 +3,8 @@ pizzapy
 
 Disclaimer
 -----------
-This is my fork of https://github.com/gamagori/pizzapi
-It's heavily modified and not well documented, but i'm going to get to that. the below example should work though.
-
-sorry! was kind of in a rush this morning.
+This is my fork of https://github.com/Magicjarvis/pizzapi
+It's heavily modified and not well documented.
 
 Setup
 -----
@@ -32,7 +30,7 @@ First construct a ``Customer`` object and set the customer's address:
 
 .. code-block:: python
 
-    customer = Customer('Barack', 'Obama', 'barack@whitehouse.gov', '2024561111', '700 Pennsylvania Avenue NW, Washington, DC, 20408')
+    customer = Customer('Adithya', 'Somayajula', 'adithya0402@gmail.com', '2024561111', '380 Assinibopine Rd, Toronto, ON')
 
 Then, find a store that will deliver to the address.
 
