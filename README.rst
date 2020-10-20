@@ -30,7 +30,7 @@ First construct a ``Customer`` object and set the customer's address:
 
 .. code-block:: python
 
-    customer = Customer('Adithya', 'Somayajula', 'adithya0402@gmail.com', '2024561111', '380 Assinibopine Rd, Toronto, ON')
+    customer = Customer('Adithya', 'Somayajula', 'adithya0402@gmail.com', '6478541765', '380 Assinibopine Rd, Toronto, ON')
 
 Then, find a store that will deliver to the address.
 
